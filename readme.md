@@ -1,0 +1,1 @@
+Prosty bot, po uruchomieniu klasy DiscordClient zacznie nasłuchiwać wiadomości. Po otrzymaniu wiadomości na czacie zacznie wysyłać wiadomości.
